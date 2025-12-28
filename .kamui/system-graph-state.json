@@ -1,0 +1,650 @@
+{
+  "schemaVersion": 1,
+  "projectPath": "D:/Github/ScarletEchoes/SoraUmi",
+  "projectRootName": "SoraUmi",
+  "graphRenderingMode": "normal",
+  "linkDisplayMode": "all",
+  "graphStats": {
+    "totalNodes": 14,
+    "folders": 6,
+    "files": 8,
+    "images": 0,
+    "videos": 0,
+    "audio": 0,
+    "code": 0,
+    "text": 7,
+    "html": 0,
+    "yaml": 0,
+    "json": 0,
+    "other": 1,
+    "totalLines": 0,
+    "maxLines": 0
+  },
+  "directoryTree": {
+    "name": "SoraUmi",
+    "type": "directory",
+    "path": "SoraUmi",
+    "children": [
+      {
+        "name": ".kamui",
+        "type": "directory",
+        "path": ".kamui",
+        "children": [],
+        "hasMore": true
+      },
+      {
+        "name": "document",
+        "type": "directory",
+        "path": "document",
+        "children": [
+          {
+            "name": "character",
+            "type": "directory",
+            "path": "document\\character",
+            "children": [
+              {
+                "name": "キャラクタービジュアルプロンプト.md",
+                "type": "file",
+                "path": "document\\character\\キャラクタービジュアルプロンプト.md"
+              },
+              {
+                "name": "キャラクター資料.md",
+                "type": "file",
+                "path": "document\\character\\キャラクター資料.md"
+              }
+            ]
+          },
+          {
+            "name": "story",
+            "type": "directory",
+            "path": "document\\story",
+            "children": [
+              {
+                "name": "『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md",
+                "type": "file",
+                "path": "document\\story\\『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md"
+              },
+              {
+                "name": "シナリオプロット_v_1_3.md",
+                "type": "file",
+                "path": "document\\story\\シナリオプロット_v_1_3.md"
+              }
+            ]
+          },
+          {
+            "name": "『Scarlet Echoes』 – 並行世界に通じる世界観要素.md",
+            "type": "file",
+            "path": "document\\『Scarlet Echoes』 – 並行世界に通じる世界観要素.md"
+          },
+          {
+            "name": "ストーリー作成_仕様書_v_1_2.md",
+            "type": "file",
+            "path": "document\\ストーリー作成_仕様書_v_1_2.md"
+          }
+        ]
+      },
+      {
+        "name": "script",
+        "type": "directory",
+        "path": "script",
+        "children": []
+      },
+      {
+        "name": "LICENSE",
+        "type": "file",
+        "path": "LICENSE"
+      },
+      {
+        "name": "README.md",
+        "type": "file",
+        "path": "README.md"
+      }
+    ]
+  },
+  "graphData": {
+    "nodes": [
+      {
+        "id": "SoraUmi",
+        "name": "SoraUmi",
+        "path": "SoraUmi",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": null,
+        "childFileCount": 2
+      },
+      {
+        "id": "SoraUmi/.kamui",
+        "name": ".kamui",
+        "path": "SoraUmi/.kamui",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "SoraUmi",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/document",
+        "name": "document",
+        "path": "SoraUmi/document",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "SoraUmi",
+        "childFileCount": 2
+      },
+      {
+        "id": "SoraUmi/document/character",
+        "name": "character",
+        "path": "SoraUmi/document/character",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "SoraUmi/document",
+        "childFileCount": 2
+      },
+      {
+        "id": "SoraUmi/document/character/キャラクタービジュアルプロンプト.md",
+        "name": "キャラクタービジュアルプロンプト.md",
+        "path": "SoraUmi/document/character/キャラクタービジュアルプロンプト.md",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#3498db",
+        "baseColor": "#3498db",
+        "originalColor": "#3498db",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": true,
+        "parentPath": "SoraUmi/document/character",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/document/character/キャラクター資料.md",
+        "name": "キャラクター資料.md",
+        "path": "SoraUmi/document/character/キャラクター資料.md",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#3498db",
+        "baseColor": "#3498db",
+        "originalColor": "#3498db",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": true,
+        "parentPath": "SoraUmi/document/character",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/document/story",
+        "name": "story",
+        "path": "SoraUmi/document/story",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "SoraUmi/document",
+        "childFileCount": 2
+      },
+      {
+        "id": "SoraUmi/document/story/『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md",
+        "name": "『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md",
+        "path": "SoraUmi/document/story/『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#3498db",
+        "baseColor": "#3498db",
+        "originalColor": "#3498db",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": true,
+        "parentPath": "SoraUmi/document/story",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/document/story/シナリオプロット_v_1_3.md",
+        "name": "シナリオプロット_v_1_3.md",
+        "path": "SoraUmi/document/story/シナリオプロット_v_1_3.md",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#3498db",
+        "baseColor": "#3498db",
+        "originalColor": "#3498db",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": true,
+        "parentPath": "SoraUmi/document/story",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/document/『Scarlet Echoes』 – 並行世界に通じる世界観要素.md",
+        "name": "『Scarlet Echoes』 – 並行世界に通じる世界観要素.md",
+        "path": "SoraUmi/document/『Scarlet Echoes』 – 並行世界に通じる世界観要素.md",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#3498db",
+        "baseColor": "#3498db",
+        "originalColor": "#3498db",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": true,
+        "parentPath": "SoraUmi/document",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/document/ストーリー作成_仕様書_v_1_2.md",
+        "name": "ストーリー作成_仕様書_v_1_2.md",
+        "path": "SoraUmi/document/ストーリー作成_仕様書_v_1_2.md",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#3498db",
+        "baseColor": "#3498db",
+        "originalColor": "#3498db",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": true,
+        "parentPath": "SoraUmi/document",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/script",
+        "name": "script",
+        "path": "SoraUmi/script",
+        "type": "directory",
+        "lines": 0,
+        "val": 14,
+        "color": "#4d515a",
+        "baseColor": "#4ec9b0",
+        "originalColor": "#4ec9b0",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "SoraUmi",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/LICENSE",
+        "name": "LICENSE",
+        "path": "SoraUmi/LICENSE",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#57606f",
+        "baseColor": "#57606f",
+        "originalColor": "#57606f",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "SoraUmi",
+        "childFileCount": 0
+      },
+      {
+        "id": "SoraUmi/README.md",
+        "name": "README.md",
+        "path": "SoraUmi/README.md",
+        "type": "file",
+        "lines": 0,
+        "val": 6,
+        "color": "#3498db",
+        "baseColor": "#3498db",
+        "originalColor": "#3498db",
+        "defaultGlow": 0.18,
+        "glowIntensity": 0.18,
+        "highlighted": false,
+        "parentPath": "SoraUmi",
+        "childFileCount": 0
+      }
+    ],
+    "links": [
+      {
+        "source": "SoraUmi",
+        "target": "SoraUmi/.kamui",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi",
+        "target": "SoraUmi/document",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi/document",
+        "target": "SoraUmi/document/character",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi/document/character",
+        "target": "SoraUmi/document/character/キャラクタービジュアルプロンプト.md",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi/document/character",
+        "target": "SoraUmi/document/character/キャラクター資料.md",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi/document",
+        "target": "SoraUmi/document/story",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi/document/story",
+        "target": "SoraUmi/document/story/『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi/document/story",
+        "target": "SoraUmi/document/story/シナリオプロット_v_1_3.md",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi/document",
+        "target": "SoraUmi/document/『Scarlet Echoes』 – 並行世界に通じる世界観要素.md",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi/document",
+        "target": "SoraUmi/document/ストーリー作成_仕様書_v_1_2.md",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi",
+        "target": "SoraUmi/script",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi",
+        "target": "SoraUmi/LICENSE",
+        "type": "tree"
+      },
+      {
+        "source": "SoraUmi",
+        "target": "SoraUmi/README.md",
+        "type": "tree"
+      }
+    ]
+  },
+  "trackedFiles": [
+    "LICENSE",
+    "README.md"
+  ],
+  "uiState": {
+    "expandedDirs": [
+      "SoraUmi",
+      "SoraUmi/SoraUmi",
+      "SoraUmi/.kamui",
+      "SoraUmi/SoraUmi/.kamui",
+      "SoraUmi/.kamui/apps",
+      "SoraUmi/SoraUmi/.kamui/apps",
+      "SoraUmi/.kamui/gantte",
+      "SoraUmi/SoraUmi/.kamui/gantte",
+      "SoraUmi/.kamui/prompt",
+      "SoraUmi/SoraUmi/.kamui/prompt",
+      "SoraUmi/document",
+      "SoraUmi/SoraUmi/document",
+      "SoraUmi/document/character",
+      "SoraUmi/SoraUmi/document/character",
+      "SoraUmi/document/story",
+      "SoraUmi/SoraUmi/document/story",
+      "SoraUmi/script",
+      "SoraUmi/SoraUmi/script"
+    ],
+    "selectedPath": null
+  },
+  "directoryTreeMeta": {
+    "mode": "full",
+    "maxDepthApplied": 10,
+    "maxEntriesPerDirectory": 0,
+    "isPartial": false
+  },
+  "gitHistoryMeta": {
+    "mode": "full",
+    "isPartial": false,
+    "branchPulse": null
+  },
+  "gitHistoryState": {
+    "selectedTimelineIndex": 1,
+    "activeCommitHash": null,
+    "entries": [
+      {
+        "type": "live",
+        "label": "現在のコードベース",
+        "files": [],
+        "branch": "main",
+        "targetCommitHash": "5512a98a17cdd19f93579cba324f219490d647a3",
+        "worktreePath": "D:/Github/ScarletEchoes/SoraUmi",
+        "timestamp": 1765951676330,
+        "lane": 0,
+        "branchLabel": "main",
+        "branchTags": [
+          "main"
+        ],
+        "isDefaultWorktree": true,
+        "branchColor": "#4f85e8",
+        "index": 0
+      },
+      {
+        "type": "unstaged",
+        "label": "未ステージ (13)",
+        "files": [
+          ".kamui/apps/kamui-os-intro-20251125.css",
+          ".kamui/apps/kamui-os-intro-20251125.html",
+          ".kamui/apps/kamui-os-intro-20251125.js",
+          ".kamui/gantte/test.yaml",
+          ".kamui/model-versions-cache.json",
+          ".kamui/prompt/merge-prompt.txt",
+          ".kamui/system-graph-state.json",
+          "document/character/キャラクタービジュアルプロンプト.md",
+          "document/character/キャラクター資料.md",
+          "document/story/『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md",
+          "document/story/シナリオプロット_v_1_3.md",
+          "document/『Scarlet Echoes』 – 並行世界に通じる世界観要素.md",
+          "document/ストーリー作成_仕様書_v_1_2.md"
+        ],
+        "branch": "main",
+        "targetCommitHash": "5512a98a17cdd19f93579cba324f219490d647a3",
+        "worktreePath": "D:/Github/ScarletEchoes/SoraUmi",
+        "timestamp": 1765951676330,
+        "sortOrder": 0,
+        "lane": 0,
+        "branchColor": "#4f85e8",
+        "index": 1
+      },
+      {
+        "type": "commit",
+        "label": "Update project title in README.md",
+        "commit": {
+          "hash": "5512a98a17cdd19f93579cba324f219490d647a3",
+          "subject": "Update project title in README.md",
+          "author": "Naoyuki Okada",
+          "timestamp": 1765935025,
+          "parents": [
+            "728505bc36ad5ec4cd0ff53174eadd18cf6ed4a2"
+          ],
+          "parent": "728505bc36ad5ec4cd0ff53174eadd18cf6ed4a2",
+          "refs": "HEAD -> main, origin/main, origin/HEAD",
+          "branches": [
+            "HEAD -> main",
+            "origin/main",
+            "origin/HEAD",
+            "main"
+          ]
+        },
+        "commitHash": "5512a98a17cdd19f93579cba324f219490d647a3",
+        "lane": 0,
+        "parentLinks": [
+          {
+            "hash": "728505bc36ad5ec4cd0ff53174eadd18cf6ed4a2",
+            "lane": 0
+          }
+        ],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [
+          "main"
+        ],
+        "worktrees": [
+          {
+            "path": "D:/Github/ScarletEchoes/SoraUmi",
+            "head": "5512a98a17cdd19f93579cba324f219490d647a3",
+            "branch": "main",
+            "isMerged": false,
+            "mergeCommitHash": null,
+            "status": {
+              "staged": [],
+              "unstaged": [],
+              "untracked": [
+                {
+                  "path": ".kamui/apps/kamui-os-intro-20251125.css",
+                  "status": "untracked",
+                  "rawPath": ".kamui/apps/kamui-os-intro-20251125.css",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": ".kamui/apps/kamui-os-intro-20251125.html",
+                  "status": "untracked",
+                  "rawPath": ".kamui/apps/kamui-os-intro-20251125.html",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": ".kamui/apps/kamui-os-intro-20251125.js",
+                  "status": "untracked",
+                  "rawPath": ".kamui/apps/kamui-os-intro-20251125.js",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": ".kamui/gantte/test.yaml",
+                  "status": "untracked",
+                  "rawPath": ".kamui/gantte/test.yaml",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": ".kamui/model-versions-cache.json",
+                  "status": "untracked",
+                  "rawPath": ".kamui/model-versions-cache.json",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": ".kamui/prompt/merge-prompt.txt",
+                  "status": "untracked",
+                  "rawPath": ".kamui/prompt/merge-prompt.txt",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": ".kamui/system-graph-state.json",
+                  "status": "untracked",
+                  "rawPath": ".kamui/system-graph-state.json",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": "document/character/キャラクタービジュアルプロンプト.md",
+                  "status": "untracked",
+                  "rawPath": "document/character/キャラクタービジュアルプロンプト.md",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": "document/character/キャラクター資料.md",
+                  "status": "untracked",
+                  "rawPath": "document/character/キャラクター資料.md",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": "document/story/『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md",
+                  "status": "untracked",
+                  "rawPath": "document/story/『空のむすび、海のおと』プロット強化資料（第5章・第6章）.md",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": "document/story/シナリオプロット_v_1_3.md",
+                  "status": "untracked",
+                  "rawPath": "document/story/シナリオプロット_v_1_3.md",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": "document/『Scarlet Echoes』 – 並行世界に通じる世界観要素.md",
+                  "status": "untracked",
+                  "rawPath": "\"document/『Scarlet Echoes』 – 並行世界に通じる世界観要素.md\"",
+                  "timestamp": 1765951675744
+                },
+                {
+                  "path": "document/ストーリー作成_仕様書_v_1_2.md",
+                  "status": "untracked",
+                  "rawPath": "document/ストーリー作成_仕様書_v_1_2.md",
+                  "timestamp": 1765951675744
+                }
+              ],
+              "capturedAt": 1765951675744
+            },
+            "normalizedPath": "D:/Github/ScarletEchoes/SoraUmi",
+            "lane": 0
+          }
+        ],
+        "index": 2
+      },
+      {
+        "type": "commit",
+        "label": "Initial commit",
+        "commit": {
+          "hash": "728505bc36ad5ec4cd0ff53174eadd18cf6ed4a2",
+          "subject": "Initial commit",
+          "author": "Naoyuki Okada",
+          "timestamp": 1765934888,
+          "parents": [],
+          "parent": null,
+          "refs": "",
+          "branches": [
+            "main"
+          ]
+        },
+        "commitHash": "728505bc36ad5ec4cd0ff53174eadd18cf6ed4a2",
+        "lane": 0,
+        "parentLinks": [],
+        "primaryBranchName": "main",
+        "branchColor": "#4f85e8",
+        "branchTags": [],
+        "index": 3
+      },
+      {
+        "type": "empty",
+        "label": "初期状態 (初回コミット以前)",
+        "files": [],
+        "marker": "pre-history",
+        "index": 4
+      }
+    ]
+  },
+  "projectRoot": "D:/Github/ScarletEchoes/SoraUmi",
+  "savedAt": 1765951716905
+}
